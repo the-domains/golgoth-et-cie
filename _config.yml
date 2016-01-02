@@ -1,0 +1,14 @@
+layout_spectrum: 0.9066413
+typography_spectrum: 0.02254402
+color:
+  saturation: 0.5287298
+  lightness: 0.9907607
+  brandStrength: 0.9034802
+  rhythmicContrast: 0.5116447
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: golgoth et cie
