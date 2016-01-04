@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://stackoverflow.com'
-  name: Stackoverflow
-  favicon: 'http://cdn.sstatic.net/stackoverflow/img/favicon.ico?v=4f32ecc8f43d'
-  domain: stackoverflow.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://stackoverflow.com/questions/9901030/tramp-mode-in-emacs-using-ssh-config/11242156#11242156'
+inLanguage: en
+starred: false
 keywords:
   - ssh
   - tramp
@@ -18,19 +17,24 @@ keywords:
   - shell
   - remote
 description: "I think this is very basic question in using tramp, but it doesn't work for me."
-inLanguage: en
+datePublished: '2016-01-04T18:20:12.707Z'
+dateModified: '2016-01-04T18:19:28.205Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://stackoverflow.com/questions/9901030/tramp-mode-in-emacs-using-ssh-config/11242156#11242156'
-title: Tramp mode in emacs using ssh config
-datePublished: '2016-01-04T18:14:33.834Z'
-dateModified: '2016-01-04T18:13:33.460Z'
+title: opening a file in Emacs from a server listed in ~/.ssh/config
 sourcePath: _posts/2016-01-04-tramp-mode-in-emacs-using-ssh-config.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Stackoverflow
+  domain: stackoverflow.com
+  url: 'http://stackoverflow.com'
+  favicon: 'http://cdn.sstatic.net/stackoverflow/img/favicon.ico?v=4f32ecc8f43d'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Tramp mode in emacs using ssh config</h1><p>I think this is very basic question in using tramp&amp;comma; but it doesn't work for me&amp;period;</p><img src="http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded&amp;a" /></article>
+# opening a file in Emacs from a server listed in ~/.ssh/config
+
+<article style=""><h1>Tramp mode in emacs using ssh config</h1><p>I think this is very basic question in using tramp, but it doesn't work for me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c84f421f97d8b96d860c10fc42929e45fffebdfc.png" /></article>
